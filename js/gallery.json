@@ -1,0 +1,48 @@
+[
+    {
+      "src": "img/1.png",
+      "alt": "Photo",
+      "caption": "The orientation week  "
+    },
+    {
+        "src": "img/2.png",
+        "alt": "Photo",
+        "caption": ""
+    },
+    {
+        "src": "img/3.png",
+        "alt": "Photo",
+        "caption": "Group photo with our teacher"
+    },
+    {
+        "src": "img/4.png",
+        "alt": "Photo",
+        "caption": "Basketball competition"
+    },
+    {
+        "src": "img/5.png",
+        "alt": "Photo",
+        "caption": "Group photo with our teacher"
+      },
+      {
+          "src": "img/6.png",
+          "alt": "Photo",
+          "caption": "Me and my friends in Navruz holiday"
+      },
+      {
+          "src": "img/7.png",
+          "alt": "Photo",
+          "caption": "Foundation Year groupmate's in Park"
+      },
+      {
+          "src": "img/8.png",
+          "alt": "Photo",
+          "caption": "we're celebrating a groupmate's  birthday"
+      },
+      {
+        "src": "img/9.png",
+        "alt": "Photo",
+        "caption": "We after watching movie"
+    }     
+  ]
+  
